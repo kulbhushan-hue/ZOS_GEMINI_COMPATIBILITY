@@ -1,0 +1,6 @@
+{
+  "name": "zCompat Matrix — z/OS ISV & PTF Compatibility Bot",
+  "description": "Mainframe z/OS ISV compatibility intelligence bot and PTF matrix analyzer across Broadcom, BMC, IBM, Rocket, Precisely, and Vanguard products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,3785 @@
+ISV COMPATIBILITY ASSESSMENT – EXCEL TEXT EXPORT
+Source workbook: ISV_Compatibility_assessment_-Data.xlsx
+Worksheets: 3
+
+====================================================================================================
+WORKSHEET: Sheet1
+Rows: 6 | Columns: 6
+====================================================================================================
+COLUMNS:
+vendor | Product  | Messsage ID to identify Product version  | Link to verify compatibility report | Information Available without login  | If No -Need MFA to Login ?
+
+RECORD 1
+vendor: Broadcom
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/zos_compat.HTML
+Information Available without login : Yes
+
+RECORD 2
+vendor: IBM
+Link to verify compatibility report: https://www.ibm.com/software/reports/compatibility/clarity/index.html
+Information Available without login : Yes
+
+RECORD 3
+vendor: BMC
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=
+Information Available without login : Yes
+
+RECORD 4
+vendor: Rocket
+
+RECORD 5
+vendor: Preciesly 
+
+RECORD 6
+vendor: ASG
+Link to verify compatibility report: (Part of Rocket software)
+
+
+====================================================================================================
+WORKSHEET: Sheet2
+Rows: 241 | Columns: 8
+====================================================================================================
+COLUMNS:
+Vendor | Product | VRM | R3.2 Compatible (Y)Yes or (N)No | If Yes, PTF Required? | End of Support Date  (EOS) | Latest Version | Comments/Link
+
+RECORD 1
+Vendor: Action Software International 
+Product: Event Action
+VRM: V8 
+
+RECORD 2
+Vendor: Broadcom Inc. 
+Product: Allocate DASD Space and Placement 
+VRM: V12
+
+RECORD 3
+Vendor: Broadcom Inc. 
+Product: CA DADS Plus for CICS 
+VRM: V4 
+
+RECORD 4
+Vendor: Broadcom Inc. 
+Product: CA Easytrieve Plus Report Generator 
+VRM: V11
+
+RECORD 5
+Vendor: Broadcom Inc. 
+Product: CA Gen
+VRM: V8 
+
+RECORD 6
+Vendor: Broadcom Inc. 
+Product: CA Management Services
+VRM: V7 
+
+RECORD 7
+Vendor: Broadcom Inc. 
+Product: CA Management Services
+VRM: V8 
+
+RECORD 8
+Vendor: Broadcom Inc. 
+Product: CA NetMaster File Transfer Management 
+VRM: V12
+
+RECORD 9
+Vendor: Broadcom Inc. 
+Product: CA NetMaster Network Management for TCP/IP
+VRM: V12
+
+RECORD 10
+Vendor: Broadcom Inc. 
+Product: CA Pan/SQL
+VRM: V2 
+
+RECORD 11
+Vendor: Broadcom Inc. 
+Product: CA PDSMAN PDS Library Management
+VRM: V7 
+
+RECORD 12
+Vendor: Broadcom Inc. 
+Product: CA SOLVE
+
+RECORD 13
+Vendor: Broadcom Inc. 
+Product: CA Trusted Access Manager for Z 
+VRM: V1 
+
+RECORD 14
+Vendor: Broadcom Inc. 
+Product: CA Vantage Storage Resource Manager 
+VRM: V14
+
+RECORD 15
+Vendor: Broadcom Inc. 
+Product: CA View 
+VRM: V14
+
+RECORD 16
+Vendor: Broadcom Inc. 
+Product: CA 1 Tape Management
+VRM: V14
+
+RECORD 17
+Vendor: Broadcom Inc. 
+Product: Deliver 
+VRM: V14
+
+RECORD 18
+Vendor: BMC Software
+Product: BATCH CONTROL FACILITY
+VRM: V4 
+
+RECORD 19
+Vendor: BMC Software
+Product: BMC AMI Application Restart Control for Db2 
+VRM: V4 
+
+RECORD 20
+Vendor: BMC Software
+Product: BMC AMI Application Restart Control for IMS 
+VRM: V4 
+
+RECORD 21
+Vendor: BMC Software
+Product: BMC AMI Application Restart Control for VSAM
+VRM: V4 
+
+RECORD 22
+Vendor: BMC Software
+Product: BMC AMI Apptune for Db2 
+VRM: V13
+
+RECORD 23
+Vendor: BMC Software
+Product: BMC AMI Backup and Recovery for IMS 
+VRM: V5 
+
+RECORD 24
+Vendor: BMC Software
+Product: BMC AMI Catalog Manager for Db2 
+VRM: V13
+
+RECORD 25
+Vendor: BMC Software
+Product: BMC AMI Change Manager for Db2
+VRM: V13
+
+RECORD 26
+Vendor: BMC Software
+Product: BMC AMI Copy for Db2
+VRM: V13
+
+RECORD 27
+Vendor: BMC Software
+Product: BMC AMI Data Packer for IMS 
+VRM: V3 
+
+RECORD 28
+Vendor: BMC Software
+Product: BMC AMI Database Advisor for IMS
+VRM: V3 
+
+RECORD 29
+Vendor: BMC Software
+Product: BMC AMI Database Integrity for IMS
+VRM: V5 
+
+RECORD 30
+Vendor: BMC Software
+Product: BMC AMI DevX Abend-Aid
+VRM: V17
+
+RECORD 31
+Vendor: BMC Software
+Product: BMC AMI DevX Abend-AID for CICS 
+VRM: V17
+
+RECORD 32
+Vendor: BMC Software
+Product: BMC AMI DevX Code Coverage
+VRM: V17
+
+RECORD 33
+Vendor: BMC Software
+Product: BMC AMI DevX Code Debug for TSO 
+VRM: V17
+
+RECORD 34
+Vendor: BMC Software
+Product: BMC AMI DevX Code Pipeline
+VRM: V22
+
+RECORD 35
+Vendor: BMC Software
+Product: BMC AMI DevX File-AID for Db2 
+VRM: V23
+
+RECORD 36
+Vendor: BMC Software
+Product: BMC AMI DevX File-AID for IMS 
+VRM: V23
+
+RECORD 37
+Vendor: BMC Software
+Product: BMC AMI DevX File-AID/Data Solutions
+VRM: V23
+
+RECORD 38
+Vendor: BMC Software
+Product: BMC AMI DevX File-AID/MVS 
+VRM: V23
+
+RECORD 39
+Vendor: BMC Software
+Product: BMC AMI DevX File-AID/RDX 
+VRM: V23
+
+RECORD 40
+Vendor: BMC Software
+Product: BMC AMI Energizer for IMS Connect 
+VRM: V1 
+
+RECORD 41
+Vendor: BMC Software
+Product: BMC AMI Fast Path Indexer for IMS 
+VRM: V4 
+
+RECORD 42
+Vendor: BMC Software
+Product: BMC AMI Fast Path Online Analyzer for IMS 
+VRM: V4 
+
+RECORD 43
+Vendor: BMC Software
+Product: BMC AMI Fast Path Online Image Copy for IMS 
+VRM: V4 
+
+RECORD 44
+Vendor: BMC Software
+Product: BMC AMI Fast Path Online Reorg for IMS
+VRM: V4 
+
+RECORD 45
+Vendor: BMC Software
+Product: BMC AMI Log Analyzer for IMS
+VRM: V1 
+
+RECORD 46
+Vendor: BMC Software
+Product: BMC AMI Log Master for Db2
+VRM: V13
+
+RECORD 47
+Vendor: BMC Software
+Product: BMC AMI Message Advisor for IMS 
+VRM: V1 
+
+RECORD 48
+Vendor: BMC Software
+Product: BMC AMI Online Reorg for IMS
+VRM: V5 
+
+RECORD 49
+Vendor: BMC Software
+Product: BMC AMI Ops Automation for Batch ThruPut
+VRM: V22
+
+RECORD 50
+Vendor: BMC Software
+Product: BMC AMI Ops Extensions for IMS TM 
+VRM: V6 
+
+RECORD 51
+Vendor: BMC Software
+Product: BMC AMI Pointer Checker for IMS 
+VRM: V5 
+
+RECORD 52
+Vendor: BMC Software
+Product: BMC AMI Pool Advisor for Db2
+VRM: V13
+
+RECORD 53
+Vendor: BMC Software
+Product: BMC AMI Recover for Db2 
+VRM: V13
+
+RECORD 54
+Vendor: BMC Software
+Product: BMC AMI Recovery Manager for Db2
+VRM: V13
+
+RECORD 55
+Vendor: BMC Software
+Product: BMC AMI Strobe
+VRM: V21
+
+RECORD 56
+Vendor: BMC Software
+Product: BMC AMI SQL Explorer for Db2
+VRM: V13
+
+RECORD 57
+Vendor: BMC Software
+Product: BMC AMI Utilities for Db2 
+VRM: V13
+
+RECORD 58
+Vendor: BMC Software
+Product: BMC Compuware Abend-AID for IDMS
+VRM: V17
+
+RECORD 59
+Vendor: BMC Software
+Product: BMC Compuware Abend-AID for IMS 
+VRM: V17
+
+RECORD 60
+Vendor: BMC Software
+Product: BMC Compuware DevEnterprise 
+VRM: V5 
+
+RECORD 61
+Vendor: BMC Software
+Product: BMC Compuware Hiperstation
+VRM: V17
+
+RECORD 62
+Vendor: BMC Software
+Product: BMC Compuware ISPW
+VRM: V18
+
+RECORD 63
+Vendor: BMC Software
+Product: BMC Control-D 
+VRM: V9 
+
+RECORD 64
+Vendor: BMC Software
+Product: BMC Control-M for z/OS
+VRM: V9 
+
+RECORD 65
+Vendor: BMC Software
+Product: BMC Control-M/Analyzer
+VRM: V9 
+
+RECORD 66
+Vendor: BMC Software
+Product: BMC Control-M/Tape
+VRM: V9 
+
+RECORD 67
+Vendor: BMC Software
+Product: BMC Control-O 
+VRM: V9 
+
+RECORD 68
+Vendor: BMC Software
+Product: Control-M JCL Verify
+VRM: V9 
+
+RECORD 69
+Vendor: BMC Software
+Product: CHANGE ACCUMULATION PLUS
+VRM: V5 
+
+RECORD 70
+Vendor: BMC Software
+Product: CHANGE RECORDING FACILITY 
+VRM: V5 
+
+RECORD 71
+Vendor: BMC Software
+Product: CHECK PLUS for DB2
+VRM: V13
+
+RECORD 72
+Vendor: BMC Software
+Product: DASD MANAGER PLUS for DB2 
+VRM: V13
+
+RECORD 73
+Vendor: BMC Software
+Product: DATA PACKER/IMS 
+VRM: V2 
+
+RECORD 74
+Vendor: BMC Software
+Product: DELTA PLUS
+VRM: V2 
+
+RECORD 75
+Vendor: BMC Software
+Product: Energizer for CICS
+VRM: V4 
+
+RECORD 76
+Vendor: BMC Software
+Product: EP Database Utilities 
+VRM: V5 
+
+RECORD 77
+Vendor: BMC Software
+Product: Fast Path Analyzer/EP 
+VRM: V4 
+
+RECORD 78
+Vendor: BMC Software
+Product: FAST REORG FACILITY/EP
+VRM: V5 
+
+RECORD 79
+Vendor: BMC Software
+Product: IMAGE COPY PLUS 
+VRM: V5 
+
+RECORD 80
+Vendor: BMC Software
+Product: IMS Recon Reader for DBRC 
+VRM: V1 
+
+RECORD 81
+Vendor: BMC Software
+Product: LOADPLUS for DB2
+VRM: V13
+
+RECORD 82
+Vendor: BMC Software
+Product: MainView for DB2 Data Collector 
+VRM: V13
+
+RECORD 83
+Vendor: BMC Software
+Product: MAXM Reorg for IMS
+VRM: V5 
+
+RECORD 84
+Vendor: BMC Software
+Product: MAXM Reorg for IMS with Online/Defrag 
+VRM: V5 
+
+RECORD 85
+Vendor: BMC Software
+Product: MAXM Reorg/EP for IMS 
+VRM: V5 
+
+RECORD 86
+Vendor: BMC Software
+Product: MAXM Reorg/EP for IMS with Online/Defrag
+VRM: V5 
+
+RECORD 87
+Vendor: BMC Software
+Product: MAXM Reorg/EP Express for IMS 
+VRM: V5 
+
+RECORD 88
+Vendor: BMC Software
+Product: OPERTUNE for DB2
+VRM: V13
+
+RECORD 89
+Vendor: BMC Software
+Product: PACLOGfor DB2 
+VRM: V13
+
+RECORD 90
+Vendor: BMC Software
+Product: POINTER CHECKER PLUS
+VRM: V5 
+
+RECORD 91
+Vendor: BMC Software
+Product: PREFIX RESOLUTION PLUS
+VRM: V5 
+
+RECORD 92
+Vendor: BMC Software
+Product: Rules Engine
+VRM: V1 
+
+RECORD 93
+Vendor: BMC Software
+Product: RECOVERY MANAGER for IMS
+VRM: V5 
+
+RECORD 94
+Vendor: BMC Software
+Product: RECOVERY PLUS for IMS 
+VRM: V5 
+
+RECORD 95
+Vendor: BMC Software
+Product: REORG PLUS for DB2
+VRM: V13
+
+RECORD 96
+Vendor: BMC Software
+Product: System Performance Component
+VRM: V13
+
+RECORD 97
+Vendor: BMC Software
+Product: SECONDARY INDEX UTILITY/EP
+VRM: V5 
+
+RECORD 98
+Vendor: BMC Software
+Product: SNAPSHOT UPGRADE FEATURE for DB2
+VRM: V6 
+
+RECORD 99
+Vendor: BMC Software
+Product: UNLOAD PLUS for DB2 
+VRM: V13
+
+RECORD 100
+Vendor: BMC Software
+Product: UNLOAD PLUS/EP for IMS
+VRM: V5 
+
+RECORD 101
+Vendor: BMC Software
+Product: 3270 SUPEROPTIMIZER/CICS
+VRM: V3 
+
+RECORD 102
+Vendor: Compute (Bridgend) Ltd. 
+Product: CBLVCAT 
+VRM: V1 
+
+RECORD 103
+Vendor: Compute (Bridgend) Ltd. 
+Product: SELCOPY 
+VRM: V3 
+
+RECORD 104
+Vendor: Compute (Bridgend) Ltd. 
+Product: SELCOPY/i 
+VRM: V3 
+
+RECORD 105
+Vendor: Confluent, Inc
+Product: Connect on z/OS 
+VRM: V7 
+
+RECORD 106
+Vendor: Data Kinetics Ltd 
+Product: tableBASE 
+VRM: V6 
+
+RECORD 107
+Vendor: Dynatrace 
+Product: Dynatrace OneAgent
+VRM: V1 
+
+RECORD 108
+Vendor: FIS 
+Product: CSF 
+VRM: V4 
+
+RECORD 109
+Vendor: FIS 
+Product: CSF Designer
+VRM: V2 
+
+RECORD 110
+Vendor: FIS 
+Product: CSF Designer
+VRM: V4 
+
+RECORD 111
+Vendor: FIS 
+Product: CSF Messenger 
+VRM: V4 
+
+RECORD 112
+Vendor: FIS 
+Product: CSF PDF 
+VRM: V4 
+
+RECORD 113
+Vendor: GXS 
+Product: Expedite Base/MVS 
+VRM: V4 
+
+RECORD 114
+Vendor: Informatica Corporation 
+Product: Informatica PowerExchange 
+VRM: V10
+
+RECORD 115
+Vendor: IBM 
+Product: z/Multi-Factor Auth V2
+VRM: V2 
+
+RECORD 116
+Vendor: IBM 
+Product: z/OS
+VRM: V2 
+
+RECORD 117
+Vendor: IBM 
+Product: z/OS
+VRM: V3 
+
+RECORD 118
+Vendor: IBM 
+Product: z/OS
+
+RECORD 119
+Vendor: IBM 
+Product: zSecure Admin V3
+VRM: V3 
+
+RECORD 120
+Vendor: IBM 
+Product: zSecure Command Verifier V2 
+VRM: V2 
+
+RECORD 121
+Vendor: IBM 
+Product: zSecure Command Verifier V3 
+VRM: V3 
+
+RECORD 122
+Vendor: IBM 
+Product: Compiler REXX on zSeries
+VRM: V1 
+
+RECORD 123
+Vendor: IBM 
+Product: CICS Transaction Server for z/OS
+VRM: V5 
+
+RECORD 124
+Vendor: IBM 
+Product: CICS Transaction Server for z/OS
+VRM: V6 
+
+RECORD 125
+Vendor: IBM 
+Product: CICS TS for z/OS
+VRM: V5 
+
+RECORD 126
+Vendor: IBM 
+Product: Data Rep for DB2 for z/OS 
+VRM: V11
+
+RECORD 127
+Vendor: IBM 
+Product: Db2 QMF for z/OS
+VRM: V13
+
+RECORD 128
+Vendor: IBM 
+Product: Db2 Utilities Suite z/OS V12
+VRM: V12
+
+RECORD 129
+Vendor: IBM 
+Product: Db2 Utilities Suite z/OS V13
+VRM: V13
+
+RECORD 130
+Vendor: IBM 
+Product: DB2 for z/OS
+VRM: V13
+
+RECORD 131
+Vendor: IBM 
+Product: DB2 Administration Tool 
+VRM: V7 
+
+RECORD 132
+Vendor: IBM 
+Product: DCF Document Composition Fac
+VRM: V1 
+
+RECORD 133
+Vendor: IBM 
+Product: DLF Document Library Facilit
+VRM: V1 
+
+RECORD 134
+Vendor: IBM 
+Product: Enterprise COBOL
+VRM: V6 
+
+RECORD 135
+Vendor: IBM 
+Product: Enterprise PL/I 
+VRM: V6 
+
+RECORD 136
+Vendor: IBM 
+Product: Geographically Dispersed Parallel Sysplex 
+VRM: V1 
+
+RECORD 137
+Vendor: IBM 
+Product: Geographically Dispersed Parallel Sysplex 
+VRM: V4 
+
+RECORD 138
+Vendor: IBM 
+Product: HourGlass 
+VRM: V7 
+
+RECORD 139
+Vendor: IBM 
+Product: IBM z/OS Connect Enterprise Edition 
+VRM: V3 
+
+RECORD 140
+Vendor: IBM 
+Product: IBM z/OS Connect EE V3
+VRM: V3 
+
+RECORD 141
+Vendor: IBM 
+Product: IBM zSystems Integ Observ 
+VRM: V6 
+
+RECORD 142
+Vendor: IBM 
+Product: IBM Connect
+
+RECORD 143
+Vendor: IBM 
+Product: IBM MQ for z/OS V9
+VRM: V9 
+
+RECORD 144
+Vendor: IBM 
+Product: IBM Open Enterprise SDK for Node.js 
+VRM: V20
+
+RECORD 145
+Vendor: IBM 
+Product: IBM Open Enterprise SDK for Python
+VRM: V3 
+
+RECORD 146
+Vendor: IBM 
+Product: IBM Semeru Runtime Certified Edition for z/OS 
+VRM: V17
+
+RECORD 147
+Vendor: IBM 
+Product: IBM Tiv Mgmt Services z/OS
+VRM: V6 
+
+RECORD 148
+Vendor: IBM 
+Product: IBM Tiv OMEGAMON XE z/OS V5 
+VRM: V5 
+
+RECORD 149
+Vendor: IBM 
+Product: IBM Tiv OMEGAMON XE MFN V5
+VRM: V5 
+
+RECORD 150
+Vendor: IBM 
+Product: IBM TDMF for z/OS V5
+VRM: V5 
+
+RECORD 151
+Vendor: IBM 
+Product: IBM Z Common Data Provider
+VRM: V5 
+
+RECORD 152
+Vendor: IBM 
+Product: IBM Z Comp, Audit & Admin V3
+VRM: V3 
+
+RECORD 153
+Vendor: IBM 
+Product: IBM Z Dist for Zowe 2.0 
+VRM: V2 
+
+RECORD 154
+Vendor: IBM 
+Product: IBM Z Mgmt Suite V1 
+VRM: V1 
+
+RECORD 155
+Vendor: IBM 
+Product: IBM Z Mgmt Suite V3 
+VRM: V3 
+
+RECORD 156
+Vendor: IBM 
+Product: IBM Z Mgmt Suite 2.2
+VRM: V2 
+
+RECORD 157
+Vendor: IBM 
+Product: IBM Z Mgmt Suite 2.4
+VRM: V2 
+
+RECORD 158
+Vendor: IBM 
+Product: IBM Z Monitoring Suite V1 
+VRM: V1 
+
+RECORD 159
+Vendor: IBM 
+Product: IBM Z Monitoring Suite V2 
+VRM: V2 
+
+RECORD 160
+Vendor: IBM 
+Product: IBM Z Multi-Factor Authentication 
+VRM: V2 
+
+RECORD 161
+Vendor: IBM 
+Product: IBM Z NetView 
+VRM: V6 
+
+RECORD 162
+Vendor: IBM 
+Product: IBM Z Open Automation Utilities 
+VRM: V1 
+
+RECORD 163
+Vendor: IBM 
+Product: IBM Z OMEG-AI for z/OS
+VRM: V6 
+
+RECORD 164
+Vendor: IBM 
+Product: IBM Z OMEG-AI for CICS
+VRM: V6 
+
+RECORD 165
+Vendor: IBM 
+Product: IBM Z OMEG-AI for JVM 
+VRM: V6 
+
+RECORD 166
+Vendor: IBM 
+Product: IBM Z OMEG-AI for Netw
+VRM: V6 
+
+RECORD 167
+Vendor: IBM 
+Product: IBM Z OMEG-AI for Storage 
+VRM: V6 
+
+RECORD 168
+Vendor: IBM 
+Product: IBM Z Performance and Capacity Analytics
+VRM: V3 
+
+RECORD 169
+Vendor: IBM 
+Product: IBM Z Platform for Apache Spark 
+VRM: V1 
+
+RECORD 170
+Vendor: IBM 
+Product: IBM Z Service Auto Suite V1 
+VRM: V1 
+
+RECORD 171
+Vendor: IBM 
+Product: IBM Z System Auto 
+VRM: V4 
+
+RECORD 172
+Vendor: IBM 
+Product: IBM Z System Automation 
+VRM: V4 
+
+RECORD 173
+Vendor: IBM 
+Product: IBM Z SAM 
+VRM: V8 
+
+RECORD 174
+Vendor: IBM 
+Product: IBM 31-Bit SDK for z/OS 
+VRM: V8 
+
+RECORD 175
+Vendor: IBM 
+Product: IBM 64-Bit SDK for z/OS 
+VRM: V8 
+
+RECORD 176
+Vendor: IBM 
+Product: IMS Batch Terminal Sim
+VRM: V4 
+
+RECORD 177
+Vendor: IBM 
+Product: IMS Command Cntl Facility 
+VRM: V2 
+
+RECORD 178
+Vendor: IBM 
+Product: IMS DB Mgr V15
+VRM: V15
+
+RECORD 179
+Vendor: IBM 
+Product: IMS Performance Analyzer
+VRM: V4 
+
+RECORD 180
+Vendor: IBM 
+Product: IMS TM V15
+VRM: V15
+
+RECORD 181
+Vendor: IBM 
+Product: Library for REXX zSeries
+VRM: V1 
+
+RECORD 182
+Vendor: IBM 
+Product: Open Data Analytics for z/OS
+VRM: V1 
+
+RECORD 183
+Vendor: IBM 
+Product: Open Ent SDK for Node.js
+VRM: V16
+
+RECORD 184
+Vendor: IBM 
+Product: Optim TDM Ent Edition zOS 
+VRM: V11
+
+RECORD 185
+Vendor: IBM 
+Product: ODM for z/OS
+VRM: V8 
+
+RECORD 186
+Vendor: IBM 
+Product: OGL/370 
+VRM: V1 
+
+RECORD 187
+Vendor: IBM 
+Product: OMEGAMON for CICS V5
+VRM: V5 
+
+RECORD 188
+Vendor: IBM 
+Product: OMEGAMON for Db2 PE on zOS 5
+VRM: V5 
+
+RECORD 189
+Vendor: IBM 
+Product: OMEGAMON for IMS V5 
+VRM: V5 
+
+RECORD 190
+Vendor: IBM 
+Product: OMEGAMON for Messaging V7 
+VRM: V7 
+
+RECORD 191
+Vendor: IBM 
+Product: OMEGAMON Perf Mgnt Ste V5 
+VRM: V5 
+
+RECORD 192
+Vendor: IBM 
+Product: OMEGAMON Storage zOS V5 
+VRM: V5 
+
+RECORD 193
+Vendor: IBM 
+Product: OMEGAMON XE for DB2 PM V5 
+VRM: V5 
+
+RECORD 194
+Vendor: IBM 
+Product: Python AI Toolkit for z/OS
+VRM: V1 
+
+RECORD 195
+Vendor: IBM 
+Product: PPFA/370
+VRM: V1 
+
+RECORD 196
+Vendor: IBM 
+Product: PSF for z/OS
+VRM: V4 
+
+RECORD 197
+Vendor: IBM 
+Product: Sec zSecure Comp&Admin V3 
+VRM: V3 
+
+RECORD 198
+Vendor: IBM 
+Product: SAA AD/Cycle PL/I MVS & 
+VRM: V1 
+
+RECORD 199
+Vendor: IBM 
+Product: Teleprocessing Network Sim V
+VRM: V3 
+
+RECORD 200
+Vendor: IBM 
+Product: Tivoli OMEGAMON XE for DB2 PE 
+VRM: V5 
+
+RECORD 201
+Vendor: IBM 
+Product: Tivoli OMEGAMON XE for Messaging
+VRM: V7 
+
+RECORD 202
+Vendor: IBM 
+Product: Tivoli OMEGAMON XE z/OS 
+VRM: V5 
+
+RECORD 203
+Vendor: IBM 
+Product: Tivoli OMEGAMON XE CICS 
+VRM: V5 
+
+RECORD 204
+Vendor: IBM 
+Product: Tivoli OMEGAMON XE IMS
+VRM: V5 
+
+RECORD 205
+Vendor: IBM 
+Product: Tivoli OMEGAMON XE MFN
+VRM: V5 
+
+RECORD 206
+Vendor: IBM 
+Product: Tivoli OMEGAMON XE Stor 
+VRM: V5 
+
+RECORD 207
+Vendor: IBM 
+Product: UKO for z/OS
+VRM: V3 
+
+RECORD 208
+Vendor: IBM 
+Product: Z Log and Data Analytics
+VRM: V5 
+
+RECORD 209
+Vendor: IBM 
+Product: Z Perf Capac Analytics V3 
+VRM: V3 
+
+RECORD 210
+Vendor: NewEra Software, Inc. 
+Product: Stand Alone Environment 
+VRM: V16
+
+RECORD 211
+Vendor: Open Source Software
+Product: curl
+VRM: V8 
+
+RECORD 212
+Vendor: OpenText Corporation
+Product: OpenText Data Privacy and Protection z Protect (Vo
+VRM: V8 
+
+RECORD 213
+Vendor: OpenText Corporation
+Product: Voltage SecureData z/Protect
+VRM: V8 
+
+RECORD 214
+Vendor: Precisely 
+Product: ACR/Detail
+VRM: V10
+
+RECORD 215
+Vendor: Precisely 
+Product: ACR/PLUS
+VRM: V10
+
+RECORD 216
+Vendor: Precisely 
+Product: ACR/PLUS
+VRM: V9 
+
+RECORD 217
+Vendor: Precisely 
+Product: ACR/Summary 
+VRM: V10
+
+RECORD 218
+Vendor: Precisely 
+Product: Finalist
+VRM: V6 
+
+RECORD 219
+Vendor: Precisely 
+Product: Finalist
+VRM: V7 
+
+RECORD 220
+Vendor: Precisely 
+Product: Syncsort MFX
+VRM: V3 
+
+RECORD 221
+Vendor: PKWARE, Inc.
+Product: PKZIP for z/OS
+VRM: V17
+
+RECORD 222
+Vendor: Quest Software Inc
+Product: NCI/XF
+VRM: V2 
+
+RECORD 223
+Vendor: Rocket Software, Inc. 
+Product: Performance Essential 
+VRM: V4 
+
+RECORD 224
+Vendor: Rocket Software, Inc. 
+Product: Rocket Data Virtualization
+VRM: V2 
+
+RECORD 225
+Vendor: Rocket Software, Inc. 
+Product: Rocket Mainstar Backup and Recovery Manager Suite 
+VRM: V6 
+
+RECORD 226
+Vendor: Rocket Software, Inc. 
+Product: Rocket Mainstar Catalog Recovery Plus 
+VRM: V7 
+
+RECORD 227
+Vendor: Rocket Software, Inc. 
+Product: Rocket Open Source Tools
+VRM: V5 
+
+RECORD 228
+Vendor: Rocket Software, Inc. 
+Product: Rocket PRO/JCL
+VRM: V3 
+
+RECORD 229
+Vendor: Rocket Software, Inc. 
+Product: Rocket Shadow Server
+VRM: V7 
+
+RECORD 230
+Vendor: Systemware, Inc.
+Product: Job History System
+VRM: V5 
+
+RECORD 231
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard inCompliance 
+VRM: V2 
+
+RECORD 232
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Active Alerts
+VRM: V2 
+
+RECORD 233
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Administrator
+VRM: V2 
+
+RECORD 234
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Advisor
+VRM: V2 
+
+RECORD 235
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Analyzer 
+VRM: V2 
+
+RECORD 236
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Enforcer 
+VRM: V2 
+
+RECORD 237
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Multifactor Authentication 
+VRM: V2 
+
+RECORD 238
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Offline
+VRM: V2 
+
+RECORD 239
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Policy Manager 
+VRM: V2 
+
+RECORD 240
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Security Centre
+VRM: V2 
+
+RECORD 241
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Security Manager 
+VRM: V2 
+
+
+====================================================================================================
+WORKSHEET: data
+Rows: 384 | Columns: 10
+====================================================================================================
+COLUMNS:
+Vendor | Product | Version | R3.2 Compatible (Y)Yes or (N)No | If Yes, PTF Required? | Link to verify compatibility report | Messsage ID to identify Product version  | Information Available without login  | If No -Need MFA to Login ? | Comments/Link
+
+RECORD 1
+Vendor: Action Software International 
+Product: Event Action
+Version: V8 
+
+RECORD 2
+Vendor: Broadcom Inc. 
+Product: Allocate DASD Space and Placement 
+Version: V12
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: LU17113 / LU19858
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/CTV.HTML
+Messsage ID to identify Product version : CA.TargetSystem-RequiredService.z/OS.V3R2
+Information Available without login : Yes
+Comments/Link: PTFs not installed/Ver 12.5
+
+RECORD 3
+Vendor: Broadcom Inc. 
+Product: Cleanup for RACF
+Version: V12
+R3.2 Compatible (Y)Yes or (N)No: Yes
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/CLR.HTML
+Comments/Link: Version 12.1 is compatiable
+
+RECORD 4
+
+RECORD 5
+Vendor: Broadcom Inc. 
+Product: CA Data Content Discovery for z/OS
+Version: V3 
+
+RECORD 6
+Vendor: Broadcom Inc. 
+Product: CA DADS Plus for CICS 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: LU06337
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/EJT.HTML
+Messsage ID to identify Product version : CA.TargetSystem-RequiredService.CICS.V6R2
+Information Available without login : Yes
+Comments/Link: PTFs not installed
+
+RECORD 7
+Vendor: Broadcom Inc. 
+Product: CA Easytrieve Plus Report Generator 
+Version: V11
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: RO94347 
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/zos_compat.HTML
+Messsage ID to identify Product version : CA.TargetSystem-RequiredService.z/OS.V3R2
+Information Available without login : Yes
+Comments/Link: PTFs is installed
+
+RECORD 8
+Vendor: Broadcom Inc. 
+Product: CA Gen
+Version: V8 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/zos_compat.HTML
+Messsage ID to identify Product version : Fix Category: CA.TargetSystem-RequiredService.z/OS.V3R2
+Information Available without login : Yes
+
+RECORD 9
+Vendor: Broadcom Inc. 
+Product: CA Management Services
+Version: V7 
+
+RECORD 10
+Vendor: Broadcom Inc. 
+Product: CA Management Services
+Version: V8 
+
+RECORD 11
+Vendor: Broadcom Inc. 
+Product: CA NetMaster File Transfer Management 
+Version: V12
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: LU16633 
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/zos_compat.HTML
+Messsage ID to identify Product version : CA.TargetSystem-RequiredService.z/OS.V3R2
+Information Available without login : Yes
+Comments/Link: PTFs are not installed(As at z/OS V3R2 GA these are the required NetMaster related PTFs:        
+ > LU16633 for FMID CC11C20 - VIPA CDI version 3201 support               
+ (applicable to TCP/IP only)) 
+
+RECORD 12
+Vendor: Broadcom Inc. 
+Product: CA NetMaster Network Management for TCP/IP
+Version: V12
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: LU16633 
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/zos_compat.HTML
+Messsage ID to identify Product version : CA.TargetSystem-RequiredService.z/OS.V3R2
+Information Available without login : Yes
+Comments/Link: PTFs are not installed(As at z/OS V3R2 GA these are the required NetMaster related PTFs:        
+ > LU16633 for FMID CC11C20 - VIPA CDI version 3201 support               
+ (applicable to TCP/IP only)) 
+
+RECORD 13
+Vendor: Broadcom Inc. 
+Product: CA Pan/SQL
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/PSQ.HTML
+Information Available without login : Yes
+Comments/Link: v2.4 & v2.6 both are compatible with z/OS 3.2- no PTF info found on site
+
+RECORD 14
+Vendor: Broadcom Inc. 
+Product: CA PDSMAN PDS Library Management
+Version: V7 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTFs are available(RO78780, LU09856 and LU15915 )
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/zos_compat.HTML
+Messsage ID to identify Product version : CA.TargetSystem-RequiredService.z/OS.V3R2
+Information Available without login : Yes
+Comments/Link: PTFs are installed
+
+RECORD 15
+Vendor: Broadcom Inc. 
+Product: CA SOLVE:Access Session Management
+Version: V5 
+If Yes, PTF Required?: PTFs are not installed
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/zos_compat.HTML
+Messsage ID to identify Product version : CA.TargetSystem-RequiredService.z/OS.V2R5
+Information Available without login : Yes
+Comments/Link: PTFs:z/OS V2R5 related PTFs are:                                              
+ > LU00820 for FMID CC2D670 are listed but z/OS V3R2 data is not available
+
+RECORD 16
+Vendor: Broadcom Inc. 
+Product: CA Tape Encryption
+Version: V15
+
+RECORD 17
+Vendor: Broadcom Inc. 
+Product: CA Trusted Access Manager for Z 
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/zos_compat.HTML
+Messsage ID to identify Product version : CA.TargetSystem-RequiredService.z/OS.V3R2
+Information Available without login : Yes
+Comments/Link: No
+
+RECORD 18
+Vendor: Broadcom Inc. 
+Product: CA TPX Session Management for z/OS
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/zos_compat.HTML
+Information Available without login : Yes
+Comments/Link: No
+
+RECORD 19
+Vendor: Broadcom Inc. 
+Product: CA Vantage Storage Resource Manager 
+Version: V14
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF-LU07441 is available
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/zos_compat.HTML
+Messsage ID to identify Product version : CA.TargetSystem-RequiredService.z/OS.V3R1
+Information Available without login : Yes
+Comments/Link: LU07441 PTF which is required for z/OS.V3R1 is available
+
+RECORD 20
+Vendor: Broadcom Inc. 
+Product: CA View 
+Version: V14
+
+RECORD 21
+Vendor: Broadcom Inc. 
+Product: CA XCOM Data Transport for z/OS 
+Version: V12
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF LU16627 is not available
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/zos_compat.HTML
+Messsage ID to identify Product version : CA.TargetSystem-RequiredService.z/OS.V3R2
+Information Available without login : Yes
+Comments/Link: LU16627 PTF which is required for  z/OS.V3R1 is not available
+
+RECORD 22
+Vendor: Broadcom Inc. 
+Product: CA 1 Flexible Storage 
+Version: V15
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF LU18187 is available and LU18695 is superseded
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/AL0.HTML
+Messsage ID to identify Product version : CA.TargetSystem-RequiredService.z/OS.V3R2
+Information Available without login : Yes
+Comments/Link: LU18187  is applied and LU18695 is superseded
+
+RECORD 23
+Vendor: Broadcom Inc. 
+Product: CA 1 Tape Management
+Version: V14
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTFs are not available LU18196 ,LU18696
+Link to verify compatibility report: https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/AL0.HTML
+Messsage ID to identify Product version : CA.TargetSystem-RequiredService.z/OS.V3R2
+Information Available without login : Yes
+Comments/Link:  LU18196 ,LU18696 are not available
+
+RECORD 24
+Vendor: Broadcom Inc. 
+Product: Deliver 
+Version: V14
+
+RECORD 25
+Vendor: BMC Software
+Product: APPLICATION RESTART CONTROL for DB2 
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 26
+Vendor: BMC Software
+Product: APPLICATION RESTART CONTROL for DB2 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: Apply PTF BQQ5939 for Db2 V13.1 support
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPARD.4.2.00
+Information Available without login : Yes
+Comments/Link: PTF BQQ5939 not applied/Ver 4.2.00 compatible
+
+RECORD 27
+Vendor: BMC Software
+Product: APPLICATION RESTART CONTROL for IMS 
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 28
+Vendor: BMC Software
+Product: APPLICATION RESTART CONTROL for IMS 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPARC.4.2.00
+Information Available without login : Yes
+Comments/Link: Ver 4.2.00 compatible
+
+RECORD 29
+Vendor: BMC Software
+Product: APPLICATION RESTART CONTROL for VSAM
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 30
+Vendor: BMC Software
+Product: APPLICATION RESTART CONTROL for VSAM
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPARC.4.2.00,LPARV.4.2.00
+Information Available without login : Yes
+Comments/Link: Ver 4.2.00 compatible
+
+RECORD 31
+Vendor: BMC Software
+Product: Backup and Recovery Solution for IMS
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 32
+Vendor: BMC Software
+Product: Backup and Recovery Solution for IMS
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: BQQ7350 is required for Recovery Manager for IMS 15.6 support.
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPARC.4.2.00,LPARV.4.2.00,LPBRI.5.2.00
+Information Available without login : Yes
+Comments/Link: PTF BQQ7350 not applied/Ver 5.2.00 compatible
+
+RECORD 33
+Vendor: BMC Software
+Product: BATCH CONTROL FACILITY
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 34
+Vendor: BMC Software
+Product: BATCH CONTROL FACILITY
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+Link to verify compatibility report: BATCH CONTROL FACILITY ver 4 compatibility with IBM z/OS 3.2
+Comments/Link: Ver 4.2.00 compatible with z/OS 3.2
+
+RECORD 35
+Vendor: BMC Software
+Product: BMC AMI Application Restart Control for Db2 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: same as line no 25,26
+
+RECORD 36
+Vendor: BMC Software
+Product: BMC AMI Application Restart Control for IMS 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: same as line no 27,28
+
+RECORD 37
+Vendor: BMC Software
+Product: BMC AMI Application Restart Control for VSAM
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: same as line no 29,30
+
+RECORD 38
+Vendor: BMC Software
+Product: BMC AMI Apptune for Db2 
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPARC.4.2.00,LPARV.4.2.00,LPBRI.5.2.00,LPCBM.9.0.19,LPASQ.13.1.00
+Information Available without login : Yes
+Comments/Link: Ver 13.1.00 compatible
+
+RECORD 39
+Vendor: BMC Software
+Product: BMC AMI Backup and Recovery for IMS 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: BQQ7350 is required for Recovery Manager for IMS 15.6 support.
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPARC.4.2.00,LPARV.4.2.00,LPBRI.5.2.00,LPCBM.9.0.19,LPASQ.13.1.00
+Information Available without login : Yes
+Comments/Link: PTF BQQ7350 not applied/Ver 5.2.00 compatible with z/OS 3.2
+
+RECORD 40
+Vendor: BMC Software
+Product: BMC AMI Catalog Manager for Db2 
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPARC.4.2.00,LPARV.4.2.00,LPBRI.5.2.00,LPCBM.9.0.19,LPASQ.13.1.00,LPACT.13.1.00
+Information Available without login : Yes
+Comments/Link: Ver 13.1.00 compatible
+
+RECORD 41
+Vendor: BMC Software
+Product: BMC AMI Change Manager for Db2
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPACM.13.1.00
+Information Available without login : Yes
+Comments/Link: Ver 13.1.00 compatible
+
+RECORD 42
+Vendor: BMC Software
+Product: BMC AMI Copy for Db2
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPACP.13.1.00
+Information Available without login : Yes
+Comments/Link: Ver 13.1.00 compatible
+
+RECORD 43
+Vendor: BMC Software
+Product: BMC AMI Data Packer for IMS 
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPDPK.3.1.00
+Information Available without login : Yes
+Comments/Link: Ver 3.1.00 compatible
+
+RECORD 44
+Vendor: BMC Software
+Product: BMC AMI Database Advisor for IMS
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPMXA.3.2.00
+Information Available without login : Yes
+Comments/Link: Ver 3.2.00 compatible
+
+RECORD 45
+Vendor: BMC Software
+Product: BMC AMI Database Integrity for IMS
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPDBI.5.2.00
+Information Available without login : Yes
+Comments/Link: Ver 5.2.00 compatible
+
+RECORD 46
+Vendor: BMC Software
+Product: BMC AMI Datastream for IMS
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPEXB.3.3.01
+Information Available without login : Yes
+Comments/Link: Ver 3.3.01 compatible
+
+RECORD 47
+Vendor: BMC Software
+Product: BMC AMI DevX Abend-Aid
+Version: V17
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: z/OS 3.2 - Day 1 support requires Abend-AID and Abend-AID Common PTF's:"AAF963Y and ACF963Y
+or
+AAF963Y and ACF963Z  (Japanese)"
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LP0YW.17.02.00
+Information Available without login : Yes
+Comments/Link: PTF AAF963Y/ACF963Y applied/Ver 17.02.00 compatible
+
+RECORD 48
+Vendor: BMC Software
+Product: BMC AMI DevX Abend-AID for CICS 
+Version: V17
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: z/OS 3.2 - Day 1 support requires Abend-AID for CICS and Abend-AID Common PTF's listed below: CFF963J and ACF963Y or CFF963A (Japanese) and ACF963Z (Japanese)
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPSQB.17.02.00
+Information Available without login : Yes
+Comments/Link: PTF ACF963Y
+ applied and PTF CFF963J/CFF963A/ACF963Z not applied//Ver 17.02.00 compatible
+
+RECORD 49
+Vendor: BMC Software
+Product: BMC AMI DevX Code Coverage
+Version: V17
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: No PTF found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPNSB.17.02.00
+Information Available without login : Yes
+Comments/Link: Ver 17.02.00 compatible
+
+RECORD 50
+Vendor: BMC Software
+Product: BMC AMI DevX Code Debug for CICS
+Version: V17
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: No PTF found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPMSB.17.02.00
+Information Available without login : Yes
+Comments/Link: Ver 17.02.00 compatible
+
+RECORD 51
+Vendor: BMC Software
+Product: BMC AMI DevX Code Debug for TSO 
+Version: V17
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: No PTF found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPKSB.17.02.00
+Information Available without login : Yes
+Comments/Link: Ver 17.02.00 compatible
+
+RECORD 52
+Vendor: BMC Software
+Product: BMC AMI DevX File-AID for Db2 
+Version: V23
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF VJD279A
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPFRB.23.01.00
+Information Available without login : Yes
+Comments/Link: PTF VJD279A applied/Ver 23.01.00 compatible
+
+RECORD 53
+Vendor: BMC Software
+Product: BMC AMI DevX File-AID for IMS 
+Version: V23
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: No PTF found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPGRB.23.01.00
+Information Available without login : Yes
+Comments/Link: Ver 23.01.00 compatible
+
+RECORD 54
+Vendor: BMC Software
+Product: BMC AMI DevX File-AID/Data Solutions
+Version: V23
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF VJD279A
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPIRB.23.01.00
+Information Available without login : Yes
+Comments/Link: PTF VJD279A  Applied/Ver 23.01.00 compatible
+
+RECORD 55
+Vendor: BMC Software
+Product: BMC AMI DevX File-AID/MVS 
+Version: V23
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF VJD279A
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPJRB.23.01.00
+Information Available without login : Yes
+Comments/Link: PTF VJD279A  Applied/Ver 23.01.00 compatible
+
+RECORD 56
+Vendor: BMC Software
+Product: BMC AMI DevX File-AID/RDX 
+Version: V23
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: No PTF found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPJRB.23.01.00,LPKRB.23.01.00
+Information Available without login : Yes
+Comments/Link: Ver 23.01.00 compatible
+
+RECORD 57
+Vendor: BMC Software
+Product: BMC AMI Energizer for IMS Connect 
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: No PTF found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPJRB.23.01.00,LPKRB.23.01.00,LPIPR.1.9.00
+Information Available without login : Yes
+Comments/Link: Ver 1.9.00 compatible
+
+RECORD 58
+Vendor: BMC Software
+Product: BMC AMI Fast Path Indexer for IMS 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF BQQ6106 required for IMS 15.3 support.
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPJRB.23.01.00,LPKRB.23.01.00,LPIPR.1.9.00,LPPFX.4.1.00
+Information Available without login : Yes
+Comments/Link: PTF BQQ6106 not applied/4.1.00
+
+RECORD 59
+Vendor: BMC Software
+Product: BMC AMI Fast Path Online Analyzer for IMS 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF BQQ6106 required for IMS 15.3 support
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPJRB.23.01.00,LPKRB.23.01.00,LPIPR.1.9.00,LPPFX.4.1.00,LPPFO.4.1.00
+Information Available without login : Yes
+Comments/Link: PTF BQQ6106 not applied/4.1.00 comapatible with z/OS 3.2
+
+RECORD 60
+Vendor: BMC Software
+Product: BMC AMI Fast Path Online Image Copy for IMS 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF BQQ6106 required for IMS 15.3 support
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPPFI.4.1.00
+Information Available without login : Yes
+Comments/Link: PTF BQQ6106 not applied/4.1.00
+
+RECORD 61
+Vendor: BMC Software
+Product: BMC AMI Fast Path Online Reorg for IMS
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF BQQ6106 required for IMS 15.3 support
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPPFL.4.1.00
+Information Available without login : Yes
+Comments/Link: PTF BQQ6106 not applied/4.1.00
+
+RECORD 62
+Vendor: BMC Software
+Product: BMC AMI Fast Path Recovery for IMS
+Version: V7 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: No PTF found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPFRU.7.1.00
+Information Available without login : Yes
+Comments/Link: Ver 7.1.00 compatible
+
+RECORD 63
+Vendor: BMC Software
+Product: BMC AMI Log Analyzer for IMS
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: No PTF found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPLUJ.1.8.00
+Information Available without login : Yes
+Comments/Link: Ver 1.8.00 compatible
+
+RECORD 64
+Vendor: BMC Software
+Product: BMC AMI Log Master for Db2
+Version: V12
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: No PTF found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPALP.13.1.00
+Information Available without login : Yes
+Comments/Link: Ver 13.1.00
+
+RECORD 65
+Vendor: BMC Software
+Product: BMC AMI Log Master for Db2
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: No PTF found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPALP.13.1.00
+Information Available without login : Yes
+Comments/Link: Ver 13.1.00
+
+RECORD 66
+Vendor: BMC Software
+Product: BMC AMI Message Advisor for IMS 
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: No PTF found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPMAQ.1.9.00
+Information Available without login : Yes
+Comments/Link: Ver 1.9.00
+
+RECORD 67
+Vendor: BMC Software
+Product: BMC AMI Online Reorg for IMS
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF BQQ6106 required for IMS 15.3 support
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPPFL.4.1.00
+Information Available without login : Yes
+Comments/Link: PTF BQQ6106 not applied/4.1.00
+
+RECORD 68
+Vendor: BMC Software
+Product: BMC AMI Ops Automation for Batch ThruPut
+Version: V22
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: TMT8113
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPWRB.22.4.00
+Information Available without login : Yes
+Comments/Link: PTF TMT8113 not applied Ver 22.4.00
+
+RECORD 69
+Vendor: BMC Software
+Product: BMC AMI Ops Extensions for IMS TM 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPSIM.6.3.00
+Information Available without login : Yes
+Comments/Link: Ver 6.3.00
+
+RECORD 70
+Vendor: BMC Software
+Product: BMC AMI Ops Monitor for CMF 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPH05.6.5.00
+Information Available without login : Yes
+Comments/Link: Ver 6.5.00
+
+RECORD 71
+Vendor: BMC Software
+Product: BMC AMI Pointer Checker for IMS 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPPCP.5.1.00
+Information Available without login : Yes
+Comments/Link: Ver 5.1.00
+
+RECORD 72
+Vendor: BMC Software
+Product: BMC AMI Pool Advisor for Db2
+Version: V12
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPPMD.13.1.00
+Information Available without login : Yes
+Comments/Link: Ver 13.1.00
+
+RECORD 73
+Vendor: BMC Software
+Product: BMC AMI Pool Advisor for Db2
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPPMD.13.1.00
+Information Available without login : Yes
+Comments/Link: Ver 13.1.00
+
+RECORD 74
+Vendor: BMC Software
+Product: BMC AMI Recover for Db2 
+Version: V12
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPAFR.13.1.00
+Information Available without login : Yes
+Comments/Link: Ver 13.1.00
+
+RECORD 75
+Vendor: BMC Software
+Product: BMC AMI Recovery for Db2 
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LABRY.13.1.00
+Information Available without login : Yes
+Comments/Link: Ver 13.1.00
+
+RECORD 76
+Vendor: BMC Software
+Product: BMC AMI Recovery Manager for Db2
+Version: V12
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPARM.13.1.00
+Information Available without login : Yes
+Comments/Link: Ver 13.1.00
+
+RECORD 77
+Vendor: BMC Software
+Product: BMC AMI Recovery Manager for Db2
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPARM.13.1.00
+Information Available without login : Yes
+Comments/Link: Ver 13.1.00
+
+RECORD 78
+Vendor: BMC Software
+Product: BMC AMI Strobe
+Version: V21
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF SBH217A  - CTS 6.3 Support PTF  SBH233A - MQ 9.4.3 and 9.4.4
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPZXB.21.01.00
+Information Available without login : Yes
+Comments/Link: PTF SBH217A/SBH233A/SBH233A  applied/Ver 21.0.1 compatible
+
+RECORD 79
+Vendor: BMC Software
+Product: BMC AMI SQL Explorer for Db2
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPPSS.13.1.00
+Information Available without login : Yes
+Comments/Link: Ver 13.1.00
+
+RECORD 80
+Vendor: BMC Software
+Product: BMC AMI Utilities for Db2 
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: No Info
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LABHU.13.1.00
+Information Available without login : Yes
+Comments/Link: Ver 13.1.00
+
+RECORD 81
+Vendor: BMC Software
+Product: BMC Compuware Abend-AID for CICS
+Version: V12
+R3.2 Compatible (Y)Yes or (N)No: No
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: google this bmc compuware abend-aid for cics compatibility with z/os version
+Information Available without login : Yes
+Comments/Link: Ver 17.02.00
+
+RECORD 82
+Vendor: BMC Software
+Product: BMC Compuware Abend-AID for IDMS
+Version: V17
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: google bmc compuware abend-aid for idms compatibility with z/os version
+Information Available without login : Yes
+Comments/Link: Ver 17.02.00
+
+RECORD 83
+Vendor: BMC Software
+Product: BMC Compuware Abend-AID for IMS 
+Version: V17
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: google bmc compuware abend-aid for ims compatibility with z/os 3.2
+Information Available without login : Yes
+Comments/Link: Ver 17.02.00
+
+RECORD 84
+Vendor: BMC Software
+Product: BMC Compuware DevEnterprise 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LP0TW.18.04.15
+Information Available without login : Yes
+Comments/Link: Ver 18.04.15
+
+RECORD 85
+Vendor: BMC Software
+Product: BMC Compuware File-AID for Db2
+Version: V10
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF VJC489A
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPFRB.21.01.00
+Information Available without login : Yes
+Comments/Link: PTF not applied/Ver 21.01.00
+
+RECORD 86
+Vendor: BMC Software
+Product: BMC Compuware File-AID for Db2
+Version: V16
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF VJC489A
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPFRB.21.01.00
+Information Available without login : Yes
+Comments/Link: PTF not applied/Ver 21.01.00
+
+RECORD 87
+Vendor: BMC Software
+Product: BMC Compuware File-AID for Db2
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF VJC489A
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPFRB.21.01.00
+Information Available without login : Yes
+Comments/Link: PTF not applied/Ver 21.01.00
+
+RECORD 88
+Vendor: BMC Software
+Product: BMC Compuware File-AID/RDX
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: PTF not found
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPKRB.21.01.00
+Information Available without login : Yes
+Comments/Link: Ver 21.01.00
+
+RECORD 89
+Vendor: BMC Software
+Product: BMC Compuware Hiperstation
+Version: V17
+R3.2 Compatible (Y)Yes or (N)No: No
+If Yes, PTF Required?: PTF required
+Link to verify compatibility report: To run BMC Compuware Hiperstation version 17 on z/OS 3.2, you must check the official compatibility matrices and apply the required Product Temporary Fixes (PTFs) or cumulative maintenance
+Information Available without login : Yes
+Comments/Link: Compatibility fixes are applied and rolling out with Q3 ZMR
+
+RECORD 90
+Vendor: BMC Software
+Product: BMC Compuware ISPW
+Version: V17
+R3.2 Compatible (Y)Yes or (N)No: Yes
+Link to verify compatibility report: BMC Compuware ISPW (now part of BMC AMI Code Pipeline) on z/OS 3.2, you must check the official compatibility matrix
+Information Available without login : Yes
+
+RECORD 91
+Vendor: BMC Software
+Product: BMC Compuware Strobe
+Version: V18
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 92
+Vendor: BMC Software
+Product: BMC Compuware Strobe
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 93
+Vendor: BMC Software
+Product: BMC Compuware Strobe
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 94
+Vendor: BMC Software
+Product: BMC Compuware Strobe
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 95
+Vendor: BMC Software
+Product: BMC Compuware ThruPut Manager 
+Version: V22.4
+R3.2 Compatible (Y)Yes or (N)No: Yes
+If Yes, PTF Required?: TMT8114
+Link to verify compatibility report: https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility/#/?smartNumber=LPVSB.18.02.00,LPVSB.22.4.00
+Information Available without login : Yes
+Comments/Link: PTF TMT8113 not appliedVer 18.2 installed as per MSI ,Latest ver is 22.04 which is compatible with 3.2
+
+RECORD 96
+Vendor: BMC Software
+Product: BMC Compuware Xpediter for CICS 
+Version: V16
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 97
+Vendor: BMC Software
+Product: BMC Compuware Xpediter for CICS 
+Version: V9 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 98
+Vendor: BMC Software
+Product: BMC Compuware Xpediter for TSO
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 99
+Vendor: BMC Software
+Product: BMC Control-D 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 100
+Vendor: BMC Software
+Product: BMC Control-D 
+Version: V9 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 101
+Vendor: BMC Software
+Product: BMC Control-M for z/OS
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 102
+Vendor: BMC Software
+Product: BMC Control-M for z/OS
+Version: V9 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 103
+Vendor: BMC Software
+Product: BMC Control-M/Analyzer
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 104
+Vendor: BMC Software
+Product: BMC Control-M/Analyzer
+Version: V9 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 105
+Vendor: BMC Software
+Product: BMC Control-M/Restart 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 106
+Vendor: BMC Software
+Product: BMC Control-M/Tape
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 107
+Vendor: BMC Software
+Product: BMC Control-M/Tape
+Version: V9 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 108
+Vendor: BMC Software
+Product: BMC Control-O 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 109
+Vendor: BMC Software
+Product: BMC Control-O 
+Version: V9 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 110
+Vendor: BMC Software
+Product: BMC Control-V 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 111
+Vendor: BMC Software
+Product: BMC COPE for IMS Base System
+Version: V19
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 112
+Vendor: BMC Software
+Product: BMC Log Analyzer for IMS
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 113
+Vendor: BMC Software
+Product: BMC Next Generation Technology Utilites 
+Version: V11
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 114
+Vendor: BMC Software
+Product: BMC Next Generation Technology Utilites 
+Version: V12
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 115
+Vendor: BMC Software
+Product: Control-M JCL Verify
+Version: V9 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 116
+Vendor: BMC Software
+Product: CDB/Utilities 
+Version: V9 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 117
+Vendor: BMC Software
+Product: CHANGE ACCUMULATION PLUS
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 118
+Vendor: BMC Software
+Product: CHANGE ACCUMULATION PLUS
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 119
+Vendor: BMC Software
+Product: CHANGE RECORDING FACILITY 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 120
+Vendor: BMC Software
+Product: CHECK PLUS for DB2
+Version: V11
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 121
+Vendor: BMC Software
+Product: CHECK PLUS for DB2
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 122
+Vendor: BMC Software
+Product: CONTROL-M/Application Server
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 123
+Vendor: BMC Software
+Product: CROSS-SYSTEM IMAGE MANAGER
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 124
+Vendor: BMC Software
+Product: Delta IMS 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 125
+Vendor: BMC Software
+Product: Discovery for z/OS Data Collector 
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 126
+Vendor: BMC Software
+Product: DASD MANAGER PLUS for DB2 
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 127
+Vendor: BMC Software
+Product: DATA ACCELERATOR Compression
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 128
+Vendor: BMC Software
+Product: DATA PACKER/IMS 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 129
+Vendor: BMC Software
+Product: DATABASE INTEGRITY PLUS 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 130
+Vendor: BMC Software
+Product: DATABASE INTEGRITY PLUS 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 131
+Vendor: BMC Software
+Product: DBA-XPERT for DB2 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 132
+Vendor: BMC Software
+Product: DBA-XPERT for DB2 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 133
+Vendor: BMC Software
+Product: DELTA PLUS
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 134
+Vendor: BMC Software
+Product: DELTA PLUS
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 135
+Vendor: BMC Software
+Product: Energizer for CICS
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 136
+Vendor: BMC Software
+Product: Energizer for IMS Connect 
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 137
+Vendor: BMC Software
+Product: EP Database Utilities 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 138
+Vendor: BMC Software
+Product: Fast Path Analyzer/EP 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 139
+Vendor: BMC Software
+Product: Fast Path Indexer/EP
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 140
+Vendor: BMC Software
+Product: Fast Path Online Analyzer/EP
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 141
+Vendor: BMC Software
+Product: Fast Path Online Image Copy/EP
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 142
+Vendor: BMC Software
+Product: Fast Path Online Reorg/EP 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 143
+Vendor: BMC Software
+Product: Fast Path Recovery Utility
+Version: V7 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 144
+Vendor: BMC Software
+Product: FAST REORG FACILITY 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 145
+Vendor: BMC Software
+Product: FAST REORG FACILITY/EP
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 146
+Vendor: BMC Software
+Product: IMAGE COPY PLUS 
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 147
+Vendor: BMC Software
+Product: IMAGE COPY PLUS 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 148
+Vendor: BMC Software
+Product: IMS Recon Reader for DBRC 
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 149
+Vendor: BMC Software
+Product: LOADPLUS for DB2
+Version: V11
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 150
+Vendor: BMC Software
+Product: LOADPLUS for DB2
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 151
+Vendor: BMC Software
+Product: MainView for z/OS 
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 152
+Vendor: BMC Software
+Product: MainView for CICS 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 153
+Vendor: BMC Software
+Product: MainView for DB2
+Version: V11
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 154
+Vendor: BMC Software
+Product: MainView for DB2 Data Collector 
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 155
+Vendor: BMC Software
+Product: MainView for IMS Offline
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 156
+Vendor: BMC Software
+Product: MainView for IMS Online 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 157
+Vendor: BMC Software
+Product: MainView for IP 
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 158
+Vendor: BMC Software
+Product: MainView for Linux - Servers
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 159
+Vendor: BMC Software
+Product: MainView for UNIX System Services 
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 160
+Vendor: BMC Software
+Product: MainView for Websphere MQ Integrator
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 161
+Vendor: BMC Software
+Product: MainView for WebSphere MQ 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 162
+Vendor: BMC Software
+Product: MainView AutoOPERATOR 
+Version: V7 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 163
+Vendor: BMC Software
+Product: MainView Data Store 
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 164
+Vendor: BMC Software
+Product: MainView SYSPROG Services 
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 165
+Vendor: BMC Software
+Product: MainView Transaction Analyzer 
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 166
+Vendor: BMC Software
+Product: Message Advisor for IMS 
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 167
+Vendor: BMC Software
+Product: MAXM Reorg for IMS
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 168
+Vendor: BMC Software
+Product: MAXM Reorg for IMS
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 169
+Vendor: BMC Software
+Product: MAXM Reorg for IMS with Online/Defrag 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 170
+Vendor: BMC Software
+Product: MAXM Reorg for IMS with Online/Defrag 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 171
+Vendor: BMC Software
+Product: MAXM Reorg/EP for IMS 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 172
+Vendor: BMC Software
+Product: MAXM Reorg/EP for IMS 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 173
+Vendor: BMC Software
+Product: MAXM Reorg/EP for IMS with Online/Defrag
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 174
+Vendor: BMC Software
+Product: MAXM Reorg/EP for IMS with Online/Defrag
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 175
+Vendor: BMC Software
+Product: MAXM Reorg/EP Express for IMS 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 176
+Vendor: BMC Software
+Product: MAXM Reorg/Online for IMS 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 177
+Vendor: BMC Software
+Product: OPERTUNE for DB2
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 178
+Vendor: BMC Software
+Product: PACLOGfor DB2 
+Version: V12
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 179
+Vendor: BMC Software
+Product: PACLOGfor DB2 
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 180
+Vendor: BMC Software
+Product: POINTER CHECKER PLUS
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 181
+Vendor: BMC Software
+Product: POINTER CHECKER PLUS
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 182
+Vendor: BMC Software
+Product: PREFIX RESOLUTION PLUS
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 183
+Vendor: BMC Software
+Product: PREFIX RESOLUTION PLUS
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 184
+Vendor: BMC Software
+Product: Rules Engine
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 185
+Vendor: BMC Software
+Product: RECOVERY MANAGER for IMS
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 186
+Vendor: BMC Software
+Product: RECOVERY MANAGER for IMS
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 187
+Vendor: BMC Software
+Product: RECOVERY PLUS for IMS 
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 188
+Vendor: BMC Software
+Product: RECOVERY PLUS for IMS 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 189
+Vendor: BMC Software
+Product: REORG PLUS for DB2
+Version: V11
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 190
+Vendor: BMC Software
+Product: REORG PLUS for DB2
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 191
+Vendor: BMC Software
+Product: System Performance Component
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 192
+Vendor: BMC Software
+Product: SECONDARY INDEX UTILITY 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 193
+Vendor: BMC Software
+Product: SECONDARY INDEX UTILITY/EP
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 194
+Vendor: BMC Software
+Product: SNAPSHOT UPGRADE FEATURE for DB2
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 195
+Vendor: BMC Software
+Product: UNLOAD PLUS for DB2 
+Version: V11
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 196
+Vendor: BMC Software
+Product: UNLOAD PLUS for DB2 
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 197
+Vendor: BMC Software
+Product: UNLOAD PLUS for IMS 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 198
+Vendor: BMC Software
+Product: UNLOAD PLUS/EP for IMS
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 199
+Vendor: BMC Software
+Product: UTILITY MANAGER 
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 200
+Vendor: BMC Software
+Product: 3270 SUPEROPTIMIZER/CICS
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 201
+Vendor: Chicago-Soft, Ltd 
+Product: MVS/Quick-Ref 
+Version: V8 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 202
+Vendor: Cincom Systems, Inc.
+Product: iD Text 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 203
+Vendor: Cisco Systems, Inc. 
+Product: CiscoWorks Blue ISM 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 204
+Vendor: Cisco Systems, Inc. 
+Product: CiscoWorks Blue SNA View
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 205
+Vendor: Compute (Bridgend) Ltd. 
+Product: CBLVCAT 
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 206
+Vendor: Compute (Bridgend) Ltd. 
+Product: SELCOPY 
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 207
+Vendor: Compute (Bridgend) Ltd. 
+Product: SELCOPY/i 
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 208
+Vendor: Confluent, Inc
+Product: Connect on z/OS 
+Version: V7 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 209
+Vendor: Data Kinetics Ltd 
+Product: tableBASE 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 210
+Vendor: Data Kinetics Ltd 
+Product: tableBASE 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 211
+Vendor: Data Kinetics Ltd 
+Product: tableBASE 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 212
+Vendor: Dynatrace 
+Product: Dynatrace OneAgent
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 213
+Vendor: FIS 
+Product: CSF 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 214
+Vendor: FIS 
+Product: CSF Messenger 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 215
+Vendor: FIS 
+Product: CSF PDF 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 216
+Vendor: Global 360, Inc.
+Product: Imagelink Application Services for CICS 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 217
+Vendor: GXS 
+Product: Expedite Base/MVS 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 218
+Vendor: IBM 
+Product: z/Multi-Factor Auth V2
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 219
+Vendor: IBM 
+Product: z/OS
+Version: V2 
+
+RECORD 220
+Vendor: IBM 
+Product: z/OS
+Version: V3 
+
+RECORD 221
+Vendor: IBM 
+Product: z/OS: Infoprint Server
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 222
+Vendor: IBM 
+Product: z/OS: Infoprint Server
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 223
+Vendor: IBM 
+Product: z/OS: Security Server 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 224
+Vendor: IBM 
+Product: zSecure Admin V2
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 225
+Vendor: IBM 
+Product: zSecure Admin V3
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 226
+Vendor: IBM 
+Product: zSecure Command Verifier V2 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 227
+Vendor: IBM 
+Product: zSecure Command Verifier V3 
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 228
+Vendor: IBM 
+Product: BookManager BUILD/MVS 
+Version: V2 
+
+RECORD 229
+Vendor: IBM 
+Product: Classic CDC for zOS V11 
+Version: V11
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 230
+Vendor: IBM 
+Product: Compiler REXX on zSeries
+Version: V1 
+
+RECORD 231
+Vendor: IBM 
+Product: CICS Transaction Server for z/OS
+Version: V4 
+
+RECORD 232
+Vendor: IBM 
+Product: CICS Transaction Server for z/OS
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 233
+Vendor: IBM 
+Product: cobol
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 234
+Vendor: IBM 
+Product: CICS TS for z/OS
+Version: V5 
+
+RECORD 235
+Vendor: IBM 
+Product: Data Rep for DB2 for z/OS 
+Version: V11
+
+RECORD 236
+Vendor: IBM 
+Product: Db2 QMF for z/OS
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 237
+Vendor: IBM 
+Product: Db2 Utilities Suite z/OS V12
+Version: V12
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 238
+Vendor: IBM 
+Product: Db2 Utilities Suite z/OS V13
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 239
+Vendor: IBM 
+Product: DB2 for z/OS
+Version: V10
+
+RECORD 240
+Vendor: IBM 
+Product: DB2 for z/OS
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 241
+Vendor: IBM 
+Product: DB2 for z/OS
+Version: V9 
+
+RECORD 242
+Vendor: IBM 
+Product: DB2 Administration Tool 
+Version: V7 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 243
+Vendor: IBM 
+Product: DB2 Analytics Accel 
+Version: V7 
+
+RECORD 244
+Vendor: IBM 
+Product: DB2 Object Comparison Tool for z/OS 
+Version: V13
+
+RECORD 245
+Vendor: IBM 
+Product: DCF Document Composition Fac
+Version: V1 
+
+RECORD 246
+Vendor: IBM 
+Product: DLF Document Library Facilit
+Version: V1 
+
+RECORD 247
+Vendor: IBM 
+Product: Enterprise COBOL
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 248
+Vendor: IBM 
+Product: Enterprise COBOL for z/OS 
+Version: V4 
+
+RECORD 249
+Vendor: IBM 
+Product: Enterprise COBOL for z/OS 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 250
+Vendor: IBM 
+Product: Enterprise PL/I 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 251
+Vendor: IBM 
+Product: Enterprise PL/I z/OS 6.1
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 252
+Vendor: IBM 
+Product: Enterprise PL/1 for z/OS
+Version: V6 
+
+RECORD 253
+Vendor: IBM 
+Product: Geographically Dispersed Parallel Sysplex 
+Version: V1 
+
+RECORD 254
+Vendor: IBM 
+Product: Geographically Dispersed Parallel Sysplex 
+Version: V3 
+
+RECORD 255
+Vendor: IBM 
+Product: Geographically Dispersed Parallel Sysplex 
+Version: V4 
+
+RECORD 256
+Vendor: IBM 
+Product: Guardium S-TAP for IMS z/OS 
+Version: V9 
+
+RECORD 257
+Vendor: IBM 
+Product: GDDM Interactive Map Def
+Version: V2 
+
+RECORD 258
+Vendor: IBM 
+Product: GDDM IMAGE VIEW UTILITY 
+Version: V1 
+
+RECORD 259
+Vendor: IBM 
+Product: GDDM-GKS
+Version: V1 
+
+RECORD 260
+Vendor: IBM 
+Product: HourGlass 
+Version: V7 
+
+RECORD 261
+Vendor: IBM 
+Product: Item Capture Support
+Version: V1 
+
+RECORD 262
+Vendor: IBM 
+Product: IBM z/OS Connect EE V3
+Version: V3 
+
+RECORD 263
+Vendor: IBM 
+Product: IBM zSystems Integ Observ 
+Version: V6 
+
+RECORD 264
+Vendor: IBM 
+Product: IBM Connect: Direct for z/OS
+Version: V6 
+
+RECORD 265
+Vendor: IBM 
+Product: IBM MQ for z/OS 
+Version: V9 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 266
+Vendor: IBM 
+Product: IBM MQ for z/OS V9
+Version: V9 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 267
+Vendor: IBM 
+Product: IBM Open Enterprise SDK for Node.js 
+Version: V20
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 268
+Vendor: IBM 
+Product: IBM Open Enterprise SDK for Python
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 269
+Vendor: IBM 
+Product: IBM Security Key Lifecycle Manager
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 270
+Vendor: IBM 
+Product: IBM Tiv Mgmt Services z/OS
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 271
+Vendor: IBM 
+Product: IBM Tiv OMEGAMON XE z/OS V5 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 272
+Vendor: IBM 
+Product: IBM Tiv OMEGAMON XE MFN V5
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 273
+Vendor: IBM 
+Product: IBM TDMF for z/OS V5
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 274
+Vendor: IBM 
+Product: IBM UrbanCode Deploy for z/OS 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No V7 IS AVAILABLE
+
+RECORD 275
+Vendor: IBM 
+Product: IBM Z Common Data Provider
+Version: V5 
+
+RECORD 276
+Vendor: IBM 
+Product: IBM Z Comp, Audit & Admin V3
+Version: V3 
+
+RECORD 277
+Vendor: IBM 
+Product: IBM Z Development and Test Environment
+Version: V13
+R3.2 Compatible (Y)Yes or (N)No: No, V14 IS AVAILABLE
+
+RECORD 278
+Vendor: IBM 
+Product: IBM Z Dist for Zowe 2.0 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No 
+
+RECORD 279
+Vendor: IBM 
+Product: IBM Z Mgmt Suite V1 
+Version: V1 
+
+RECORD 280
+Vendor: IBM 
+Product: IBM Z Mgmt Suite V3 
+Version: V3 
+
+RECORD 281
+Vendor: IBM 
+Product: IBM Z Mgmt Suite 2.2
+Version: V2 
+
+RECORD 282
+Vendor: IBM 
+Product: IBM Z Mgmt Suite 2.4
+Version: V2 
+
+RECORD 283
+Vendor: IBM 
+Product: IBM Z Monitoring Suite V1 
+Version: V1 
+
+RECORD 284
+Vendor: IBM 
+Product: IBM Z Monitoring Suite V2 
+Version: V2 
+
+RECORD 285
+Vendor: IBM 
+Product: IBM Z Multi-Factor Authentication 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 286
+Vendor: IBM 
+Product: IBM Z NetView 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 287
+Vendor: IBM 
+Product: IBM Z Open Automation Utilities 
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 288
+Vendor: IBM 
+Product: IBM Z OMEG-AI for z/OS
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 289
+Vendor: IBM 
+Product: IBM Z OMEG-AI for CICS
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No 
+
+RECORD 290
+Vendor: IBM 
+Product: IBM Z OMEG-AI for JVM 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 291
+Vendor: IBM 
+Product: IBM Z OMEG-AI for Netw
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 292
+Vendor: IBM 
+Product: IBM Z OMEG-AI for Storage 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 293
+Vendor: IBM 
+Product: IBM Z Platform for Apache Spark 
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 294
+Vendor: IBM 
+Product: IBM Z Service Auto Suite V1 
+Version: V1 
+
+RECORD 295
+Vendor: IBM 
+Product: IBM Z System Auto 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No (Compatible with Zos 2.3)
+
+RECORD 296
+Vendor: IBM 
+Product: IBM Z System Automation 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No (Compatible with Zos 2.3)
+
+RECORD 297
+Vendor: IBM 
+Product: IBM Z SAM 
+Version: V8 
+
+RECORD 298
+Vendor: IBM 
+Product: IBM 31-Bit SDK for z/OS 
+Version: V8 
+
+RECORD 299
+Vendor: IBM 
+Product: IBM 64-Bit SDK for z/OS 
+Version: V8 
+
+RECORD 300
+Vendor: IBM 
+Product: IMS 
+Version: V13
+
+RECORD 301
+Vendor: IBM 
+Product: IMS Batch Terminal Sim
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 302
+Vendor: IBM 
+Product: IMS Command Cntl Facility 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 303
+Vendor: IBM 
+Product: IMS Database Mgr V14
+Version: V14
+
+RECORD 304
+Vendor: IBM 
+Product: IMS DB Mgr V15
+Version: V15
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 305
+Vendor: IBM 
+Product: IMS Performance Analyzer
+Version: V4 
+
+RECORD 306
+Vendor: IBM 
+Product: IMS Transaction Mgr V14 
+Version: V14
+
+RECORD 307
+Vendor: IBM 
+Product: IMS TM V15
+Version: V15
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 308
+Vendor: IBM 
+Product: IP Coaxial Printer Support
+Version: V2 
+
+RECORD 309
+Vendor: IBM 
+Product: Library for REXX zSeries
+Version: V1 
+
+RECORD 310
+Vendor: IBM 
+Product: Open Data Analytics for z/OS
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 311
+Vendor: IBM 
+Product: Open Ent SDK for Node.js
+Version: V16
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 312
+Vendor: IBM 
+Product: Optim TDM Ent Edition zOS 
+Version: V11
+
+RECORD 313
+Vendor: IBM 
+Product: ODM for z/OS
+Version: V8 
+
+RECORD 314
+Vendor: IBM 
+Product: OGL/370 
+Version: V1 
+
+RECORD 315
+Vendor: IBM 
+Product: OMEGAMON for CICS V5
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 316
+Vendor: IBM 
+Product: OMEGAMON for Db2 PE on zOS 5
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 317
+Vendor: IBM 
+Product: OMEGAMON for IMS V5 
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 318
+Vendor: IBM 
+Product: OMEGAMON for Messaging V7 
+Version: V7 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 319
+Vendor: IBM 
+Product: OMEGAMON Integration Monitor DE 
+Version: V5 
+
+RECORD 320
+Vendor: IBM 
+Product: OMEGAMON Perf Mgnt Ste V5 
+Version: V5 
+
+RECORD 321
+Vendor: IBM 
+Product: OMEGAMON Storage zOS V5 
+Version: V5 
+
+RECORD 322
+Vendor: IBM 
+Product: Python AI Toolkit for z/OS
+Version: V1 
+
+RECORD 323
+Vendor: IBM 
+Product: PPFA/370
+Version: V1 
+
+RECORD 324
+Vendor: IBM 
+Product: PSF for z/OS
+Version: V4 
+
+RECORD 325
+Vendor: IBM 
+Product: Sec zSecure Comp&Admin V3 
+Version: V3 
+
+RECORD 326
+Vendor: IBM 
+Product: Sterling Connect: Enterprise
+Version: V1 
+
+RECORD 327
+Vendor: IBM 
+Product: SAA AD/Cycle PL/I MVS & 
+Version: V1 
+
+RECORD 328
+Vendor: IBM 
+Product: Teleprocessing Network Sim V
+Version: V3 
+
+RECORD 329
+Vendor: IBM 
+Product: Tivoli Adv Catlg Mgmt z/OS
+Version: V2 
+
+RECORD 330
+Vendor: IBM 
+Product: Tivoli OMEGAMON XE for DB2 PE 
+Version: V5 
+
+RECORD 331
+Vendor: IBM 
+Product: Tivoli OMEGAMON XE for Messaging
+Version: V7 
+
+RECORD 332
+Vendor: IBM 
+Product: Tivoli OMEGAMON XE z/OS 
+Version: V5 
+
+RECORD 333
+Vendor: IBM 
+Product: Tivoli OMEGAMON XE CICS 
+Version: V5 
+
+RECORD 334
+Vendor: IBM 
+Product: Tivoli OMEGAMON XE IMS
+Version: V5 
+
+RECORD 335
+Vendor: IBM 
+Product: Tivoli OMEGAMON XE MFN
+Version: V5 
+
+RECORD 336
+Vendor: IBM 
+Product: Tivoli OMEGAMON XE Stor 
+Version: V5 
+
+RECORD 337
+Vendor: IBM 
+Product: TSO Data Utilities
+Version: V1 
+
+RECORD 338
+Vendor: IBM 
+Product: UKO for z/OS
+Version: V3 
+
+RECORD 339
+Vendor: IBM 
+Product: Z Log and Data Analytics
+Version: V5 
+
+RECORD 340
+Vendor: IBM 
+Product: Z Perf Capac Analytics V3 
+Version: V3 
+
+RECORD 341
+Vendor: Levi Ray & Shoup, Inc.
+Product: LRS/Server
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 342
+Vendor: Levi Ray & Shoup, Inc.
+Product: VMCF
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 343
+Vendor: Levi Ray & Shoup, Inc.
+Product: VMCF
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 344
+Vendor: Levi Ray & Shoup, Inc.
+Product: VPS 
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 345
+Vendor: Levi Ray & Shoup, Inc.
+Product: VPS 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 346
+Vendor: Levi Ray & Shoup, Inc.
+Product: VPS/PCL 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 347
+Vendor: Levi Ray & Shoup, Inc.
+Product: VPS/TCPIP 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 348
+Vendor: Macro 4 
+Product: Columbus Z
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 349
+Vendor: NewEra Software, Inc. 
+Product: Stand Alone Environment 
+Version: V16
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 350
+Vendor: Open Source Software
+Product: bash
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 351
+Vendor: Open Source Software
+Product: curl
+Version: V8 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 352
+Vendor: OpenText Corporation
+Product: Open Text Data Integrator 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 353
+Vendor: OpenText Corporation
+Product: OpenText Data Privacy and Protection z Protect (Vo
+Version: V8 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 354
+Vendor: OpenText Corporation
+Product: Voltage SecureData z/Protect
+Version: V8 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 355
+Vendor: Precisely 
+Product: ACR/Detail
+Version: V10
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 356
+Vendor: Precisely 
+Product: ACR/Summary 
+Version: V10
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 357
+Vendor: Precisely 
+Product: Syncsort MFX
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 358
+Vendor: Precisely 
+Product: Syncsort MFX
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 359
+Vendor: PKWARE, Inc.
+Product: PKZIP for z/OS
+Version: V17
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 360
+Vendor: Quest Software Inc
+Product: NCI/XF
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 361
+Vendor: Rocket Software, Inc. 
+Product: Performance Essential 
+Version: V4 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 362
+Vendor: Rocket Software, Inc. 
+Product: Rocket Data Virtualization
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 363
+Vendor: Rocket Software, Inc. 
+Product: Rocket Mainstar Backup and Recovery Manager Suite 
+Version: V6 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 364
+Vendor: Rocket Software, Inc. 
+Product: Rocket Mainstar Catalog Recovery Plus 
+Version: V7 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 365
+Vendor: Rocket Software, Inc. 
+Product: Rocket Open Source Tools
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 366
+Vendor: Rocket Software, Inc. 
+Product: Rocket PRO/JCL
+Version: V3 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 367
+Vendor: Rocket Software, Inc. 
+Product: Rocket Shadow Server
+Version: V7 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 368
+Vendor: Segus 
+Product: Bind ImpactExpert for DB2 z/OS
+Version: V12
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 369
+Vendor: Software Diversified Services 
+Product: CICS Applications File Control
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 370
+Vendor: Systemware, Inc.
+Product: Job History System
+Version: V5 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 371
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard inCompliance 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 372
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Active Alerts
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 373
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Administrator
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 374
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Advisor
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 375
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Analyzer 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No
+
+RECORD 376
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Cleanup
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 377
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Compliance Manager 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 378
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Enforcer 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 379
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Multifactor Authentication 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 380
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Offline
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: Yes
+
+RECORD 381
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Policy Manager 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 382
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Security Centre
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 383
+Vendor: VANGUARD Integrity Prof.
+Product: Vanguard Security Manager 
+Version: V2 
+R3.2 Compatible (Y)Yes or (N)No: No Info
+
+RECORD 384
+Vendor: 21CS
+Product: Total Storage 
+Version: V1 
+R3.2 Compatible (Y)Yes or (N)No: No
+
